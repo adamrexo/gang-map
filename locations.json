@@ -6,7 +6,15 @@
 		"order": 0,
 		"strokecolor": "1851AD",
 		"fillcolor": "1851AD",
-		"latlngarray": []
+		"latlngarray": [
+			{"lat": -74.761, "lng": -1.410},
+			{"lat": -74.567, "lng": -0.806},
+			{"lat": -74.387, "lng": -0.949},
+			{"lat": -73.937, "lng": -0.411},
+			{"lat": -73.797, "lng": -0.037},
+			{"lat": -73.513, "lng": -1.279},
+			{"lat": -74.262, "lng": -3.586}
+		]
 	},
 	{
 		"type": "Downtown",
