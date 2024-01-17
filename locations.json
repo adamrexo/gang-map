@@ -21,11 +21,11 @@
 	},
 	{
 		"type": "Downtown",
-		"title": "Crabby Block Gangsters",
+		"title": "10Line Infamous Crips",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "000000",
+		"strokecolor": "0008a8",
+		"fillcolor": "0008a8",
 		"latlngarray": [
 			{"lat": -72.837, "lng": -3.117},
 			{"lat": -72.638, "lng": -2.589},
@@ -34,6 +34,28 @@
 			{"lat": -72.901, "lng": -1.029},
 			{"lat": -73.033, "lng": -1.205},
 			{"lat": -73.190, "lng": -1.622}
+		]
+	},
+	{
+		"type": "Downtown",
+		"title": "Crabby Block Gangsters",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.029, "lng": -0.069},
+			{"lat": -73.998, "lng": 0.305},
+			{"lat": -74.221, "lng": 1.887},
+			{"lat": -74.735, "lng": 1.799},
+			{"lat": -74.695, "lng": 0.843},
+			{"lat": -74.919, "lng": 0.437},
+			{"lat": -75.022, "lng": 0.030},
+			{"lat": -75.129, "lng": -0.486},
+			{"lat": -74.919, "lng": -1.167},
+			{"lat": -74.680, "lng": -0.530},
+			{"lat": -74.549, "lng": -0.497},
+			{"lat": -74.417, "lng": -0.651}
 		]
 	}
 ]
